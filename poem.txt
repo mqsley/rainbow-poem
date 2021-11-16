@@ -8,4 +8,5 @@ blue
 indigo
 violet
 green
+grey
 these are the colors of the rainbow.
