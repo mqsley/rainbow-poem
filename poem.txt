@@ -8,6 +8,7 @@ blue
 indigo
 violet
 green
+pink
 grey
 these are the colors of the rainbow.
 and the unicorn.
