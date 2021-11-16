@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 roygbiv
 red
@@ -10,3 +10,4 @@ violet
 green
 grey
 these are the colors of the rainbow.
+and the unicorn.
