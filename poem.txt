@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow and the unicorn and the pony
 
 roygbiv
 red
@@ -12,3 +12,4 @@ pink
 grey
 these are the colors of the rainbow.
 and the unicorn.
+and the pony.
